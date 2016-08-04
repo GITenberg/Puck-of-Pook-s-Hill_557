@@ -1,0 +1,41 @@
+_repo: Puck-of-Pook-s-Hill_557
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_bookshelf:
+- Scouts
+- Children's Literature
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Space and time -- Fiction'
+- !lcsh 'Great Britain -- History -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Puck's song -- Weland's sword -- A tree song -- Young men at the
+  manor -- Sir Richard's song -- Harp song of the Dane women -- The knights of the
+  joyous venture -- Thorkild's song -- Old men at Pevensey -- The runes on Weland's
+  sword -- A centurion of the Thirtieth -- A Britsh-Roman song -- On the great wall
+  -- A song to Mithras -- The winged hats -- A Pict song -- Hal o' the draft -- A
+  smuggler's song -- The bee boy's song -- 'Dymchurch Flit' -- A three-part song --
+  Song of the fifth river -- The treasure and the law -- The children's song.
+title: Puck of Pook's Hill
+url: http://www.gutenberg.org/ebooks/557
